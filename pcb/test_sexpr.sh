@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # This script file is used to test the consistency of files saved
 # with sexpr python file. Spaces and line positioning will be ignored
